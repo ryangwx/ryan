@@ -1,0 +1,8 @@
+{
+  "name": "Copy of JogjaHub - Integrated Tourism & MSME Ecosystem",
+  "description": "A comprehensive collaboration platform for DIY government departments integrating tourism, transportation, culture, and MSMEs for a seamless traveler experience.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
